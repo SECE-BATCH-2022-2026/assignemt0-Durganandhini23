@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<h1 align="center">RESUME</h1>
+<body>
+<img src="D:\Users\DELL\Desktop\New folder (2)\Simi.jpg"alt ="image" width="70" height="100">
+<p>
+<h2 style="color:red;"><u>Contact Details</u>
+</h2>
+<li>Name   : DURGANANDHINI.V</li>
+<li>E-mail : vdurganandhini@gmail.com</li>
+<li>Phone  : 9795856334</li>
+</p>
+<p>
+<h2 style="color:red;"><u>Educational Details</u></h2>
+<li>High school:Oxford Matric Higher Secondary School</li>
+<li>U.G @ Sri Eshwar College of Engineering</li>
+</p>
+<p>
+<h2 style="color:red;"><u>Interpersonal Skills</u></h2>
+<li>Ability to work both individually as well as in team </li>
+<li>Good communication skills </li>
+<li> Time managment skills </li>
+<li>Positive attitude & adaptability working </li>
+</p>
+<p>
+<h2 style="color:red;"><u>Programming Skills</u></h2>
+<li>C</li>
+<li>Python</li>
+</p>
+<p>
+<h2 style="color:red;"><u>About Me</u></h2>
+<li>Date of Birth : 10/12/2004</li>
+<li>Gender : Female</li>
+<li>Marital Status : Unmarried</li>
+<li>Nationality : Indian</li>
+</p>
+<p>
+<h2 style="color:red;"><u>Language Known</u></h2>
+<li>English</li>
+<li>Tamil</li>
+</p>
+<p>
+<h2 style="color:red;"><u>Declaration</u></h2>
+<li>Hereby,I Solemnly declare that above
+details are true to the best of my
+knowledge</li>
+
+</body>
+</html>
